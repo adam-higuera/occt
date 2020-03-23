@@ -1,3 +1,6 @@
+This is NOT the Official OCCT Repo. OCCT Source downloads are hidden behind a signup,
+so I'm just putting this here to clone for Docker containers.
+
 Open CASCADE Technology
 =======================
 
